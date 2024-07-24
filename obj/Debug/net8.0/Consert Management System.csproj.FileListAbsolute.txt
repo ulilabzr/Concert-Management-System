@@ -1,0 +1,14 @@
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\bin\Debug\net8.0\Consert Management System.exe
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\bin\Debug\net8.0\Consert Management System.deps.json
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\bin\Debug\net8.0\Consert Management System.runtimeconfig.json
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\bin\Debug\net8.0\Consert Management System.dll
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\bin\Debug\net8.0\Consert Management System.pdb
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\obj\Debug\net8.0\Consert Management System.GeneratedMSBuildEditorConfig.editorconfig
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\obj\Debug\net8.0\Consert Management System.AssemblyInfoInputs.cache
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\obj\Debug\net8.0\Consert Management System.AssemblyInfo.cs
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\obj\Debug\net8.0\Consert Management System.csproj.CoreCompileInputs.cache
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\obj\Debug\net8.0\Consert Management System.dll
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\obj\Debug\net8.0\refint\Consert Management System.dll
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\obj\Debug\net8.0\Consert Management System.pdb
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\obj\Debug\net8.0\Consert Management System.genruntimeconfig.cache
+R:\MATERI PERKULIAHAN\SEMESTER 2\PEMROGRAMAN\Consert Management System\obj\Debug\net8.0\ref\Consert Management System.dll
